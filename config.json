@@ -1,16 +1,17 @@
 {
   "servers": [
-    {"name": "Singapore - taitan VIP", "id": "sg1"},
-    {"name": "Mobily - server", "id": "sa1"},
+    {"name": "Singapore - Taitan VIP", "id": "sg1"},
+    {"name": "Saudi Arabia - Free 01", "id": "sa1"},
     {"name": "Qatar - Super Fast", "id": "qt1"},
-    {"name": "UAE - Gaming Server", "id": "uae1"}
+    {"name": "UAE - Gaming Server", "id": "uae1"},
+    {"name": "USA - Streaming VIP", "id": "us1"}
   ],
   "payloads": [
-    {"name": "taitan VIP: STC Free Net", "id": "stc2"},
     {"name": "Saudi: STC Free Net", "id": "stc"},
     {"name": "Saudi: Zain Unlimited", "id": "zain"},
     {"name": "Qatar: Ooredoo Free", "id": "ooredoo"},
+    {"name": "Qatar: Vodafone Unlimited", "id": "voda"},
     {"name": "Direct - No Payload", "id": "direct"}
   ],
-  "notice": "Taitan VPN: High Speed Servers Online!"
+  "notice": "Taitan VPN: High Speed Servers Online! Update Config Done."
 }
