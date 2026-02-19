@@ -6,7 +6,6 @@
     {"name": "UAE - Gaming Server", "id": "uae1"}
   ],
   "payloads": [
-    {"name": "taitan VIP: STC Free Net", "id": "stc"},
     {"name": "Saudi: STC Free Net", "id": "stc"},
     {"name": "Saudi: Zain Unlimited", "id": "zain"},
     {"name": "Qatar: Ooredoo Free", "id": "ooredoo"},
