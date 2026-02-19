@@ -6,9 +6,9 @@
     {"name": "Saudi Arabia - VIP", "id": "sa2"},
     {"name": "Qatar - Super Fast", "id": "qt1"},
     {"name": "UAE - Gaming 01", "id": "uae1"},
-    {"name": "UAE - Gaming 02", "id": "uae2"},
-    {"name": "USA - Premium", "id": "us1"},
-    {"name": "UK - High Speed", "id": "uk1"},
+    {"name": "ATK - Gaming 02", "id": "uae2"},
+    {"name": "ATK2 - Premium", "id": "us1"},
+    {"name": "ATK3 - High Speed", "id": "uk1"},
     {"name": "Canada - VIP", "id": "ca1"}
   ],
   "payloads": [
