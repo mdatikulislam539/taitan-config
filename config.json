@@ -1,7 +1,7 @@
 {
   "auth": {
     "username": "admin",
-    "password": "123"
+    "password": "1234"
   },
   "servers": [
     {"name": "Singapore - VIP 01", "id": "sg1"},
