@@ -5,7 +5,8 @@
     {"name": "Qatar - Super Fast", "id": "qt1"},
     {"name": "UAE - Gaming Server", "id": "uae1"},
     {"name": "Atk-Fast", "id": "new1"},
-    {"name": "Atk2-Fast", "id": "new2"}
+    {"name": "Atk2-Fast", "id": "new2"},
+    {"name": "Atk3-Fast", "id": "new3"}
   ],
   "payloads": [
     {"name": "Saudi: STC Free Net", "id": "stc"},
