@@ -1,6 +1,10 @@
 {
+  "auth": {
+    "username": "admin",
+    "password": "123"
+  },
   "servers": [
-{"name": "Singapore - VIP 01", "id": "sg1"},
+    {"name": "Singapore - VIP 01", "id": "sg1"},
     {"name": "Singapore - VIP 02", "id": "sg2"},
     {"name": "Saudi Arabia - Free", "id": "sa1"},
     {"name": "Saudi Arabia - VIP", "id": "sa2"},
@@ -9,7 +13,7 @@
     {"name": "ATK - Gaming 02", "id": "uae2"},
     {"name": "ATK2 - Premium", "id": "us1"},
     {"name": "ATK3 - High Speed", "id": "uk1"},
-    {"name": "Atikul - VIP", "id": "ca1"}
+    {"name": "Canada - VIP", "id": "ca1"}
   ],
   "payloads": [
     {"name": "Saudi: STC Free Net", "id": "stc"},
@@ -17,5 +21,5 @@
     {"name": "Qatar: Ooredoo Free", "id": "ooredoo"},
     {"name": "Direct - No Payload", "id": "direct"}
   ],
-  "notice": "Taitan VPN: High Speed Servers Online!"
+  "notice": "Taitan VPN: All Systems Online!"
 }
