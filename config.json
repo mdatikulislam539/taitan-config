@@ -6,7 +6,7 @@
     {"name": "UAE - Gaming Server", "id": "uae1"},
     {"name": "Atk-Fast", "id": "new1"},
     {"name": "Atk2-Fast", "id": "new2"},
-    {"name": "Atikul", "id": "new4"},
+    {"name": "Atikul", "id": "new4"}
   ],
   "payloads": [
     {"name": "Saudi: STC Free Net", "id": "stc"},
